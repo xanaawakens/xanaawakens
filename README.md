@@ -1,16 +1,17 @@
-## Hi there. I am Tuan 👋
+# 👋 Hello! I'm Tuan (Avi)
 
-<!--
-**avixiii-dev/avixiii-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate game developer with expertise in Unity, Blender. I love bringing ideas to life through interactive experiences and captivating visuals. I'm also currently exploring the exciting world of Machine Learning!
 
-Here are some ideas to get you started:
+## 🚀 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Game Engines:** Unity
+* **3D Modeling:** Blender
+* **2D Art & Design:** Photoshop
+* **Programming Languages:** [C#, C++, Python, Java]
+* **Other Skills:** [animation, level design, UI/UX, ]
+
+## 🌱 I'm currently learning ...
+
+* Machine Learning 🧠
+
+😄 Pronouns: he/him
