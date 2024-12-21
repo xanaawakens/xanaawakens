@@ -1,17 +1,16 @@
-# 👋 Hello! I'm Tuan (Avi)
+# avixiii-dev
 
-I'm a passionate game developer with expertise in Unity, Blender. I love bringing ideas to life through interactive experiences and captivating visuals. I'm also currently exploring the exciting world of Machine Learning!
+Welcome to **avixiii-dev**! This repository contains my open-source projects and resources across **Unity**, **Flutter**, and **Django**.
 
-## 🚀 My Skills
+## Technologies & Skills
+- **Unity**: 🎮 Game Development, 🕹️ AR/VR, ⚡ Performance Optimization, 🌐 Multiplayer Systems
+- **Flutter**: 📱 Mobile Development, 🧑‍💻 State Management, 🔗 API Integration, ⚙️ Performance Tuning
+- **Django**: 🌐 Web Development, 🔒 Security, 🛠️ RESTful APIs, 💾 Database Management
 
-* **Game Engines:** Unity
-* **3D Modeling:** Blender
-* **2D Art & Design:** Photoshop
-* **Programming Languages:** [C#, C++, Python, Java]
-* **Other Skills:** [animation, level design, UI/UX, ]
+## How to Contact
+- **Email**: [contact@avixiii.com](mailto:contact@avixiii.com)
 
-## 🌱 I'm currently learning ...
+## Support My Work
+If you find my projects helpful, please consider supporting me on GitHub Sponsors to help me continue creating quality tools and resources for the developer community.
 
-* Machine Learning 🧠
-
-😄 Pronouns: he/him
+Thank you for visiting **avixiii-dev**! Let's build something amazing together!
