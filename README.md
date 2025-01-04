@@ -1,8 +1,8 @@
 # avixiii-dev
 
-Welcome to **avixiii-dev**! This repository contains my open-source projects and resources across **Unity**, **Flutter**, and **Django**.
-<!--
 
+<!--
+Welcome to **avixiii-dev**! This repository contains my open-source projects and resources across **Unity**, **Flutter**, and **Django**.
 ## Technologies & Skills
 - **Unity**: 🎮 Game Development, 🕹️ AR/VR, ⚡ Performance Optimization, 🌐 Multiplayer Systems
 - **Flutter**: 📱 Mobile Development, 🧑‍💻 State Management, 🔗 API Integration, ⚙️ Performance Tuning
