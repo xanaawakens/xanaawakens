@@ -1,5 +1,6 @@
 # avixiii-dev
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avixiii-dev&layout=compact&theme=radical)
 
 <!--
 Welcome to **avixiii-dev**! This repository contains my open-source projects and resources across **Unity**, **Flutter**, and **Django**.
