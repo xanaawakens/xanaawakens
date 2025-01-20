@@ -58,12 +58,14 @@
 <!-- ## 🔖 Featured repositories:
 [![bundle-size-tracke](https://github-readme-stats.vercel.app/api/pin/?username=avixiii-dev&repo=bundle-size-tracker)](https://github.com/avixiii-dev/bundle-size-tracker)
 [![tts-platform](https://github-readme-stats.vercel.app/api/pin/?username=avixiii-dev&repo=tts-platform)](https://github.com/avixiii-dev/tts-platform)
--->
+
 <h2 align="center">🔖 Featured repositories:</h2>
 
 [![django-seo-optimize](https://github-readme-stats.vercel.app/api/pin/?username=avixiii-dev&repo=django-seo-optimizer)](https://github.com/avixiii-dev/django-seo-optimizer)
 [![phonecam-security](https://github-readme-stats.vercel.app/api/pin/?username=avixiii-dev&repo=phonecam-security)](https://github.com/avixiii-dev/phonecam-security)
 [![bundle-size-tracker](https://github-readme-stats.vercel.app/api/pin/?username=avixiii-dev&repo=bundle-size-tracker)](https://github.com/avixiii-dev/bundle-size-tracker)
+-->
+
 
 
 <h2 align="center">📫 Connect with me</h2>
