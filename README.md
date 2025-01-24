@@ -1,12 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pham Anh Tuan</h1>
-<h3 align="center">A coding enthusias 🚀</h3>
 
-
-
-
-</p> 
-
+<!--
 <h2 align="center">🛠 Skills</h2>
 <p align="center">
   <img src="./images/icons8-unity.svg" alt="AWS" width="40" height="40" />
@@ -32,6 +27,7 @@
   <img src="./images/ubuntu-svgrepo-com.svg" alt="Ubuntu" width="40" height="40" />
   <img src="./images/aws-lambda-svgrepo-com.svg" alt="AWS Lambda" width="40" height="40" />
 </p>
+-->
 
 
 
@@ -47,11 +43,11 @@
 
 <h2 align="center">📊 Activity Stats</h2>
 
-
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avixiii-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avixiii-dev&theme=radical" alt="GitHub Streak" width="425" />
-</div>
+</p>
+
 
 
 
@@ -74,12 +70,12 @@
   <a href="mailto:avixiii@proton.me">
     <img src="./connect/gmail-svgrepo-com.svg" alt="Email" width="60" height="60" />
   </a>
-  <a href="https://services.avixiii.com">
+  <a href="https://services.xana.zip">
     <img src="./connect/work-is-money-svgrepo-com.svg" alt="Services" width="60" height="60" />
   </a>
 </p>
 
-## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects `avixiii.com`._
+## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects `xana.zip`._
 
 <img width="100%" src="./line.gif">
 
