@@ -44,8 +44,8 @@
 <h2 align="center">📊 Activity Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avixiii-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avixiii-dev&theme=radical" alt="GitHub Streak" width="425" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xanaawakens&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanaawakens&theme=radical" alt="GitHub Streak" width="425" />
 </p>
 
 
