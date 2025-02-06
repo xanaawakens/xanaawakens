@@ -70,7 +70,7 @@
   <a href="mailto:xanaawakens@outlook.com">
     <img src="./connect/gmail-svgrepo-com.svg" alt="Email" width="60" height="60" />
   </a>
-  <a href="https://services.xana.zip">
+  <a href="https://xana.zip">
     <img src="./connect/work-is-money-svgrepo-com.svg" alt="Services" width="60" height="60" />
   </a>
 </p>
