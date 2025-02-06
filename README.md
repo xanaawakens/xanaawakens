@@ -33,8 +33,8 @@
 
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
-  <a href="https://github.com/avixiii-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=avixiii-dev&theme=react-dark" alt="Contribution Graph" />
+  <a href="https://github.com/xanaawakens">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xanaawakens&theme=react-dark" alt="Contribution Graph" />
   </a>
 </p>
 
