@@ -67,7 +67,7 @@
 <h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
-  <a href="mailto:avixiii@proton.me">
+  <a href="mailto:xanaawakens@outlook.com">
     <img src="./connect/gmail-svgrepo-com.svg" alt="Email" width="60" height="60" />
   </a>
   <a href="https://services.xana.zip">
