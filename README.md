@@ -75,8 +75,7 @@
   </a>
 </p>
 
-## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects <a href="xana.zip">`xana.zip`</a>._
-
+## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects <a href="https://xana.zip">`xana.zip`</a>._
 <img width="100%" src="./line.gif">
 
 
